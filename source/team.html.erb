@@ -1,0 +1,8 @@
+<div class="container text-center">
+	<h2>Esse é o nosso time</h2>
+	<ul class="list-inline">
+		<% data.team.each do |member| %>
+			<%= partial 'team_member', locals: {name: member[:name], picture_id: member[:picture_id]} %>
+		<% end %>
+	</ul>
+</div>

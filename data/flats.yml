@@ -1,0 +1,32 @@
+mathieu:
+  description: Charming room with patio
+  city: Paris
+  picture: seb.jpg
+  card_picture: card-paris.jpg
+thiago:
+  description: Lovely House
+  city: Brussels
+  picture: anne.jpg
+  card_picture: card-brussels.jpeg
+lincoln:
+  description: Nice flat in Piccadilly
+  city: London
+  picture: romain.jpeg
+  card_picture: card-london.jpeg
+
+diego:
+  description: Charming room with patio
+  city: Paris
+  picture: seb.jpg
+  card_picture: card-paris.jpg
+roger:
+  description: Lovely House
+  city: Brussels
+  picture: anne.jpg
+  card_picture: card-brussels.jpeg
+davi:
+  description: Nice flat in Piccadilly
+  city: London
+  picture: romain.jpeg
+  card_picture: card-london.jpeg
+
